@@ -12,7 +12,7 @@ and don't worry I'm gonna make my repository full of amuzing little project in m
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<AndroidStudio>-<WORD_ON_RIGHT>-informational?style=flat&logo=https://simpleicons.org/icons/androidstudio.svg)
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli&show_icons=true&theme=radical)
