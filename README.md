@@ -1,5 +1,5 @@
-
-## Hi, I’m Sarah  <img align="right" height="200"  src="https://i.imgur.com/2JZkmtH.gif">
+<img align="right" height="100"  src="https://i.imgur.com/2JZkmtH.gif">
+## Hi, I’m Sarah  
   I’m interested in various type of programming langs and I'm trying to keep up with updates
   I’m always learning 
 and I'm very insecure about my projects thats why I keep in private
