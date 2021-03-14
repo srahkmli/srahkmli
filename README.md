@@ -7,12 +7,12 @@ and don't worry I'm gonna make my repository full of amuzing little project in m
 
 - via this Id @srahkmli you can find me everywhere
 
-//![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli&count_private=true)
-
 
 
 
 <!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli&show_icons=true&theme=radical)
+
 srahkmli/srahkmli  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
