@@ -1,5 +1,5 @@
 
-## Hi, I’m sarah  <img align="right" src="https://i.imgur.com/2JZkmtH.gif">
+## Hi, I’m Sarah  <img align="right" height="200"  src="https://i.imgur.com/2JZkmtH.gif">
   I’m interested in various type of programming langs and I'm trying to keep up with updates
   I’m always learning 
 and I'm very insecure about my projects thats why I keep in private
@@ -7,16 +7,16 @@ and don't worry I'm gonna make my repository full of amuzing little project in m
 
 - via this Id @srahkmli you can find me everywhere
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-![](https://img.shields.io/badge/<AndroidStudio>-<WORD_ON_RIGHT>-informational?style=flat&logo=https://simpleicons.org/icons/androidstudio.svg)
 
 <!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli&show_icons=true&theme=radical)
 
-srahkmli/srahkmli  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+
+ 
 --->
+
+
+
