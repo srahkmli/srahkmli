@@ -7,7 +7,8 @@ and don't worry I'm gonna make my repository full of amuzing little project in m
 
 - via this Id @srahkmli you can find me everywhere
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srahkmli&count_private=true)
+
 
 
 
