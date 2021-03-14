@@ -1,9 +1,10 @@
 
-## Hi, I’m Sarah  <img align="right" height="100"  src="https://i.imgur.com/2JZkmtH.gif">
+## Hi, I’m Sarah 
 
-  I’m interested in various type of programming langs and I'm trying to keep up with updates
-  I’m always learning 
-and I'm very insecure about my projects thats why I keep in private
+  I’m interested in various type of programming langs and I'm trying to keep up with updates.
+  
+  always learning  <img align="right" height="50"  src="https://i.imgur.com/2JZkmtH.gif">
+> and I'm very insecure about my projects thats why I keep in private
 and don't worry I'm gonna make my repository full of amuzing little project in my resume
 
 - via this Id @srahkmli you can find me everywhere
