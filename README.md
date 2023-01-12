@@ -4,10 +4,8 @@
   I’m interested in various type of programming langs and I'm trying to keep up with updates.
   
   always learning  <img align="center" height="30"  src="https://i.imgur.com/2JZkmtH.gif">
-> p.s : I'm very insecure about my projects thats why I kept those in private
-and don't worry I'm gonna make my repository full of amuzing little project in my resume
+> 
 
-- via this Id @srahkmli you can find me everywhere
 
 
 <!---
