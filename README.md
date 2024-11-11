@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sarah</h1>
+<h1 align="left">Hi, I'm Sara</h1>
 <h3 align="center">I’m interested in various type of programming langs and I'm trying to keep up with updates. <img align="center" height="30"  src="https://i.imgur.com/2JZkmtH.gif"> </h3> 
 
 - 📫 How to reach me **srahkmli@gmail.com**
