@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Sara</h1>
-<h3 align="center">Here's my partner Code Kitty <img align="center" height="30"  src="https://i.imgur.com/2JZkmtH.gif"> </h3> 
+<h3 align="left">Here's my partner Code Kitty <img align="left" height="30"  src="https://i.imgur.com/2JZkmtH.gif"> </h3> 
 
 - 📫 How to reach me **srahkmli@gmail.com**
 
